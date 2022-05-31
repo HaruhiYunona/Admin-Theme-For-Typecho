@@ -1,7 +1,6 @@
 # Admin-Theme-For-Typecho
-Typecho admin pink panel theme.专用于Typecho的粉嫩后台皮肤。
 
-**下载地址:**[https://mdzz.pro/usr/uploads/2022/05/1817744698.zip][1]
+
 自用的Typecho后台皮肤,需要替换文件。使用前请注意备份文件。
 全粉圆角设计,少女心满满。
 
@@ -24,7 +23,6 @@ Typecho admin pink panel theme.专用于Typecho的粉嫩后台皮肤。
 ![屏幕截图 2022-05-31 174648.png][8]
 
 
-  [1]: https://mdzz.pro/usr/uploads/2022/05/1817744698.zip
   [2]: https://mdzz.pro/usr/uploads/2022/05/3107746063.png
   [3]: https://mdzz.pro/usr/uploads/2022/05/2421676833.png
   [4]: https://mdzz.pro/usr/uploads/2022/05/3441378670.png
